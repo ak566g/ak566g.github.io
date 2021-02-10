@@ -1,3 +1,2 @@
 # Portfolio-Terminal
-    Thanks for visiting here.
-    https://ak566g.github.io/
+Thanks for visiting here. [link](https://www.google.com)
