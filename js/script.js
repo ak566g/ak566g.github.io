@@ -38,7 +38,7 @@ function execute(inputValue) {
 function checkCommand(inputCommand){
 
     let command = inputCommand.split(" ")[0];
-
+    command = command.toLowerCase();
     if(command){
         if(command === 'bio'){ commandBio();}
         else if(command === 'clear'){ commandClear();}
